@@ -9,3 +9,5 @@
 4ta actividad: https://colab.research.google.com/drive/1Bgv9GTr2iBp1qHuW0v-_u1c2vNM15JBu?usp=sharing
 
 5ta actividad: https://colab.research.google.com/drive/1LU7O9aGuShaaAXYiafkTnSnEHMijdOiK?usp=sharing
+
+6ta actividad: https://colab.research.google.com/drive/1v1fwqTvJi_eQSltl_WIQlhZAB5cmuW4y?usp=sharing
